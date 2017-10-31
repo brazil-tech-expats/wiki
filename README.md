@@ -36,13 +36,15 @@ Nosso código de conduta é inspirado no [Latin@s in tech](https://techqueria.or
 
 *Meu cartão foi clonado e eu me sustento dele, e agora?*
 
-- O Payoneer vai bloquear o *recebimento de fundos*, o saque para contas bancárias, e o uso do cartão (óbvio). A única coisa que você pode fazer é acessar sua conta e verificar as trasações / acessar o suporte, coisas básicas.
+- O Payoneer vai bloquear o *recebimento de fundos*, o saque para contas bancárias, e o uso do cartão (óbvio). A única coisa que você pode fazer é acessar sua conta e verificar as transações / acessar o suporte, coisas básicas.
 
 - Caso você receba um pagamento de alguma empresa, ele vai aparecer no histórico como pendente. De acordo com o atendente, o pagamento fica como `pending` até que seu cartão novo chegue.
 
-- Para receber um novo cartão, você deve ir ao CHAT, solicitar o cartão novo e comprovar residência onde você estiver. Caso esteja em outro país (portugal por ex), você pode mandar o cartão do cidadão que possui o endereço da sua casa.
+- Para receber um novo cartão, você deve ir ao CHAT, solicitar o cartão novo e comprovar residência onde você estiver. Caso esteja em outro país (portugal por ex), você pode mandar o cartão do cidadão que possui o endereço da sua casa. Mas eles vão pedir alguma conta que comprove residência no país onde você está, caso contrário, o cartão vai precisar ir para o Brasil (caso seja seu endereço de residência padrão).
 
-- O custo do cartão é `GRÁTIS` caso você opte pelo shipping regular. Existe a possibilidade do shipping mais rápido, via DHL, mas tem um custo de `$40 USD`, que será debitado do seu saldo payoneer. O shipping regular demora *2-4 semanas* e o via DHL *4-7 dias teis*.
+- O custo do cartão é `GRÁTIS` caso você opte pelo shipping regular. Existe a possibilidade do shipping mais rápido, via DHL, mas tem um custo de `$40 USD`, que será debitado do seu saldo payoneer. O shipping regular demora *2-4 semanas* e o via DHL *4-7 dias úteis*.
+
+- Vai chegar um e-mail do payoneer após 1 hora +- dizendo prazo estimado para chegar seu cartão. Via DHL tem tracking, fica a dica.
 
 ## #Taxes
 
