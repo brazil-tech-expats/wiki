@@ -44,11 +44,11 @@ Nosso código de conduta é inspirado no [Latin@s in tech](https://techqueria.or
 
 - O custo do cartão é `GRÁTIS` caso você opte pelo shipping regular. Existe a possibilidade do shipping mais rápido, via DHL, mas tem um custo de `$40 USD`, que será debitado do seu saldo payoneer. O shipping regular demora *2-4 semanas* e o via DHL *4-7 dias teis*.
 
-## Taxes
+## #Taxes
 
-## Random
+## #Random
 
-## Comidinhas
+## #Comidinhas
 
 ## FAQ's Relacionados
 
