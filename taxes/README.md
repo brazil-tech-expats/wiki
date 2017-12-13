@@ -18,3 +18,6 @@ Após fazer a DSDP, você deixa de ser residente fiscal do Brasil. Como não res
 
 > A declaracao de saída implica na tributação de renda. Imóveis são patrimônio. A natureza jurídica é distinta. Portanto os imóveis não são prejudicados.
 
+## Doações (Dica)
+
+Uma dica interessante que o meu advogado passou é que transferências em caráter de doação com origem no exterior não são tributadas no Brasil, existe ampla jurisprudência confirmando essa interpretação já que o congresso nunca editou lei complementar para regulamentar esse caso, então se você tem família no Brasil por exemplo e gostaria de doar valores, basta que eles declarem isso no IR e tudo certo.
