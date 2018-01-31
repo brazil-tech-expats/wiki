@@ -1,8 +1,8 @@
-# Countries
+# Países
 
-A list of countries that someone already wrote about.
+Lista de países com algum conteúdo:
 
-* [countriepararius.coms/netherlands.md](/countries/netherlands.md) :flag-nl:;
+* [Holanda](/countries/netherlands.md)
 
 
 
