@@ -5,6 +5,6 @@
 * [Taxes](taxes/README.md)
 * [Tech & Tools](tech-and-tools/README.md)
 * [Código de Conduta](README.md#código-de-conduta)
-* [Countries](countries.md)
-  * [Netherlands](countries/netherlands.md)
+* [Países](countries.md)
+  * [Países Baixos](countries/netherlands.md)
 
