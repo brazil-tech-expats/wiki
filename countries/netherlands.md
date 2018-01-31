@@ -2,7 +2,7 @@
 
 ## Informação Básica
 
-* Língua: _Neerlandês_
+* Língua: _Neerlandês / Inglês_
 * Moeda: _Euro_
 
 Não se refira aos Países Baixos como Holanda, a maioria dos neerlandeses acha ofensivo. Holanda é a região que engloba dois estados \(Holanda do Norte e Holanda do Sul\).
