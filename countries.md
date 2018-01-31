@@ -2,7 +2,7 @@
 
 A list of countries that someone already wrote about.
 
-* [Netherlands](/countries/netherlands.md "The Netherlands") :flag-nl:;
+* [countries/netherlands.md](/countries/netherlands.md) :flag-nl:;
 
 
 
