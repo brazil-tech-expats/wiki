@@ -20,7 +20,6 @@ Quando a empresa patroncinar sua imigração, o roteiro será o seguinte:
 * A empresa dará entrada no [IND;](http://ind.nl/)
 * O IND enviará a empresa uma carta de aprovação \(aproximadamente 2 semanas\);
 * A empresa comunicará sua aprovação pelo IND e você deverá [marcar um horário no consulado geral dos Países Baixos de São Paulo](https://tracking.vfsglobal.com/Netherlands-Global-Online-Appointment_Zone3/AppScheduling/AppWelcome.aspx?P=HWGBNAjqHwVt5/GJoRs9WQnVEJS5Y8fVWPrimCCwlDM=);
-  * O consulado 
 * Você deverá ir ao consulado no horário marcado com o [formulário de pedido de visto preenchido](https://www.government.nl/documents/forms/2015/07/30/mvv-issue-form) e os documentos comprobatórios;
   * Você deverá anexar ao formulário uma foto, veja os requisitos em: [rijksoverheid.nl](https://www.rijksoverheid.nl/documenten/brochures/2014/02/18/fotomatrix-2007);
   * O consulado irá informar um número de rastreamento da solicitação;
