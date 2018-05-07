@@ -54,6 +54,6 @@ Vale a pena conferir:
 
 
 ### Leituras recomendadas:
-* [Leasing de automoveis](http://www.kemavlees.nl/web/rundvlees.shtml) - em inglês
+* [Leasing de automoveis](https://justlease.nl/) - em inglês
 
 
