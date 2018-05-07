@@ -53,4 +53,7 @@ Vale a pena conferir:
 * [Bunq](https://bunq.com)
 
 
+### Leituras recomendadas:
+* [Leasing de automoveis](http://www.kemavlees.nl/web/rundvlees.shtml) - em inglês
+
 
