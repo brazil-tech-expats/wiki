@@ -37,17 +37,17 @@ Em agosto de 2018:
 
   **Total: 1836,- EUR;**
 
-  ### Aprendendo holandês em Alkmaar
+### Aprendendo holandês em Alkmaar
 
   Professor particular para aulas em casa: 30,- EUR a hora por aula. Recomendado 1,5 hora aula por semana;
 
-  ### Saúde
+### Saúde
 
   Alkmaar dispõe de um grande hospital, alguns pronto-socorro. No hospital e nos pronto-socorros existem farmácias que funcionam exclusivamente fora do horário comercial e atendem somente emergências. Ou seja, remédios de uso contínuo não são entregues nela.
 
   [Emergência Huisartenpost](https://www.honk.nu/huisartsenpost)
 
-  ### Educação infantil
+### Educação infantil
 
   Após o registro na cidade, recebemos visita de uma assistente social que nos recomendou creche para nossa filha (3 anos) e a prefeitura paga 2 dos 4 dias da semana que ela vai para escola. A escola fica bem próxima da nossa casa e tem várias escolas pela cidade. As crianças ficam na escola de 8:30 ás 11:30. Cada professor pode ter no máximo 4 alunos. Na turma da minha filha, existem 4 professoras em média 13 alunos.
 
