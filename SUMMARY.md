@@ -6,5 +6,5 @@
 * [Tech & Tools](tech-and-tools/README.md)
 * [Código de Conduta](README.md#código-de-conduta)
 * [Países](countries.md)
-  * [Países Baixos](countries/netherlands.md)
+* [Países Baixos](countries/netherlands.md)
 
