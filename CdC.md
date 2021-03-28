@@ -105,7 +105,9 @@ fraudulentos - quando descobertos - poderão ser deletadas sem aviso
 prévio pela moderação. Usuários cuja participação a moderação julgar que
 está apenas dedicada em provocar usuários ou gerar baits para criar
 discussões e conflitos na comunidade também estarão sujeitos à avisos e
-banimento após deliberação dos moderadores.
+banimento após deliberação dos moderadores. No intuito de evitar contas falsas,
+a entrada de novos membros só é possível através do convite de membros já
+existentes e subsequente aprovação da administração.
 
 \[Regra 10 - Sem Pirataria\]
 
@@ -121,7 +123,18 @@ protegidos.
 de evitar, burlar ou desrespeitar as leis brasileiras ou dos respectivos
 países em discussão.
 
-\[Regra 12 - Comportamento fora do Slack\]
+\[Regra 12 - Conteúdos sensíveis\]
+Conteúdos sensíveis, como por exemplo suicídio, automultilação, estupro, entre
+outros, serão removidos caso a administração entenda que sejam passíveis de
+disparo de gatilhos emocionais (possam causar recaídas ou sofrimento intenso).
+Nossa comunidade é muito ampla, abrangendo pessoas que já passaram por diversas
+experiências e prezamos para que todos se sintam acolhidos. Não temos preparo
+profissional adequado para lidarmos com essas situações, caso sinta necessidade
+de conversar sobre esses temas, encorajamos que procure um profissional.
+Sinta-se à vontade para usar os canais de cidades/países para pedir informações
+ou indicações desses profissionais na sua região.
+
+\[Regra 13 - Comportamento fora do Slack\]
 
 Todas as regras explicitadas neste CDC também podem ser extrapoladas
 para reuniões, eventos e encontros presenciais ou outros canais virtuais
