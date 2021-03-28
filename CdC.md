@@ -124,7 +124,7 @@ de evitar, burlar ou desrespeitar as leis brasileiras ou dos respectivos
 países em discussão.
 
 \[Regra 12 - Conteúdos sensíveis\]
-Conteúdos sensíveis, como por exemplo suicídio, automultilação, estupro, entre
+Conteúdos sensíveis, como por exemplo suicídio, automutilação, estupro, entre
 outros, serão removidos caso a administração entenda que sejam passíveis de
 disparo de gatilhos emocionais (possam causar recaídas ou sofrimento intenso).
 Nossa comunidade é muito ampla, abrangendo pessoas que já passaram por diversas
