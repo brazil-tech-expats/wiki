@@ -29,6 +29,13 @@ A equipe de moderação se reserva ao direito de modificar o CDC abaixo
 sem consulta prévia à comunidade. Mudanças serão comunicadas no canal
 \#announcements para que todos possam se adequar às novas regras.
 
+Todas as regras explicitadas neste CDC também podem ser extrapoladas
+para reuniões, eventos e encontros presenciais ou outros canais virtuais
+(incluindo, mas não se limitando a: WhatsApp, Telegram, Facebook,
+Instagram, outras redes sociais, e-mails) entre os membros desta
+comunidade. O descumprimento dessas regras, mesmo que em outro ambiente,
+também pode resultar em avisos ou exclusão de conta do usuário infrator.
+
 \[Regra 1 - Respeite a todos\]
 
 Você deve sempre respeitar os direitos e opiniões de outros membros,
@@ -105,9 +112,7 @@ fraudulentos - quando descobertos - poderão ser deletadas sem aviso
 prévio pela moderação. Usuários cuja participação a moderação julgar que
 está apenas dedicada em provocar usuários ou gerar baits para criar
 discussões e conflitos na comunidade também estarão sujeitos à avisos e
-banimento após deliberação dos moderadores. No intuito de evitar contas falsas,
-a entrada de novos membros só é possível através do convite de membros já
-existentes e subsequente aprovação da administração.
+banimento após deliberação dos moderadores.
 
 \[Regra 10 - Sem Pirataria\]
 
@@ -133,12 +138,3 @@ profissional adequado para lidarmos com essas situações, caso sinta necessidad
 de conversar sobre esses temas, encorajamos que procure um profissional.
 Sinta-se à vontade para usar os canais de cidades/países para pedir informações
 ou indicações desses profissionais na sua região.
-
-\[Regra 13 - Comportamento fora do Slack\]
-
-Todas as regras explicitadas neste CDC também podem ser extrapoladas
-para reuniões, eventos e encontros presenciais ou outros canais virtuais
-(incluindo, mas não se limitando a: WhatsApp, Telegram, Facebook,
-Instagram, outras redes sociais, e-mails) entre os membros desta
-comunidade. O descumprimento dessas regras, mesmo que em outro ambiente,
-também pode resultar em avisos ou exclusão de conta do usuário infrator.
