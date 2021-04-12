@@ -16,7 +16,7 @@ Este tipo de conta é muito útil para quem presta serviços para alguma empresa
 
 *General info? Este tópico precisa de ajuda*
 
-[https://transferwise.com/borderless-account/](https://transferwise.com/borderless-account/)
+[https://wise.com/gb/multi-currency-account](https://wise.com/gb/multi-currency-account)
 
 ### Payoneer
 
