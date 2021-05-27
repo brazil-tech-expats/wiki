@@ -1,3 +1,5 @@
+# Código de Conduta
+
 Ao se juntar à nossa comunidade você concorda em seguir nosso **Código
 de Conduta** (CDC). Em caso de violação do CDC, nós (a equipe de
 moderação do Brazil Tech Expats) nos reservamos o direito de terminar
@@ -36,7 +38,9 @@ Instagram, outras redes sociais, e-mails) entre os membros desta
 comunidade. O descumprimento dessas regras, mesmo que em outro ambiente,
 também pode resultar em avisos ou exclusão de conta do usuário infrator.
 
-\[Regra 1 - Respeite a todos\]
+## Regras
+
+### 1. Respeite a todos
 
 Você deve sempre respeitar os direitos e opiniões de outros membros,
 assim como abster-se de assediar e/ou atacar, provocar e ofender outros
@@ -62,18 +66,18 @@ limita a:
 -   Expor propositalmente qualquer aspecto da identidade de uma pessoa,
     sem seu consentimento
 
-\[Regra 2 - Contas adequadas\]
+### 2. Contas adequadas
 
 Nomes, apelidos e imagens de perfil devem permanecer apropriados e não
 ofensivos.
 
-\[Regra 3 - Sem NSFW\]
+### 3. Sem NSFW
 
 Absolutamente nenhuma forma de NSFW (Não Seguro para o Trabalho), nudez
 ou conteúdo sexualmente explícito é permitido, incluindo fotos de
 perfil.
 
-\[Regra 4 - Memes\]
+### 4. Memes
 
 Enquanto memes em geral são permitidos, certos memes são totalmente
 proibidos nesta comunidade. Dentre eles, mas não se limitando a, estão:
@@ -82,30 +86,30 @@ têm má intenção, eles também são usados por extremistas e grupos de ódio
 e como tal podem ser considerados como ofensivos. Memes ofensivos em
 geral não são permitidos.
 
-\[Regra 5 - Sem linguagem ofensiva\]
+### 5. Sem linguagem ofensiva
 
 Você não deve enviar quaisquer mensagens que sejam consideradas sujas,
 vulgares, sexualmente assediantes, ofensivas raciais, que contenham
 calúnias étnicas, ou de qualquer forma discriminatórias.
 
-\[Regra 6 - Sem contornar punições\]
+### 6. Sem contornar punições
 
 A tentativa de contornar filtros de linguagem proibidos ou de contornar
 uma punição resultará em uma expulsão.
 
-\[Regra 7 - Informações pessoais\]
+### 7. Informações pessoais
 
 Não compartilhe informações pessoais próprias ou de outras pessoas
 (membros da comunidade ou não) - isso inclui, mas não se limita ao
 endereço residencial, número de telefone e documentos. Respeite o desejo
 de privacidade de outras pessoas.
 
-\[Regra 8 - Sem Spam\]
+### 8. Sem Spam
 
 Não faça; isto inclui emoji, imagem, mensagens e menção de spam nos
 canais ou em mensagens diretas.
 
-\[Regra 9 - Sem personificação, contas fakes ou trolls\]
+### 9. Sem personificação, contas fakes ou trolls\]
 
 Não se faça passar por outras pessoas. Contas fakes ou perfis
 fraudulentos - quando descobertos - poderão ser deletadas sem aviso
@@ -114,7 +118,7 @@ está apenas dedicada em provocar usuários ou gerar baits para criar
 discussões e conflitos na comunidade também estarão sujeitos à avisos e
 banimento após deliberação dos moderadores.
 
-\[Regra 10 - Sem Pirataria\]
+### 10. Sem Pirataria
 
 Esta comunidade não deverá em hipótese alguma ser utilizada para
 compartilhamento de arquivos, vídeos, livros ou outros materiais
@@ -122,19 +126,22 @@ protegidos por direitos autorais. Não toleramos discussões sobre
 piratarias ou formas ilegais de acessar conteúdos e materiais
 protegidos.
 
-\[Regra 11 - Respeite as leis\]
+### 11. Respeite as leis
 
 É proibido encorajar ou postar links, dicas, ou quaisquer outros métodos
 de evitar, burlar ou desrespeitar as leis brasileiras ou dos respectivos
 países em discussão.
 
-\[Regra 12 - Conteúdos sensíveis\]
+### 12. Conteúdos sensíveis
+
 Conteúdos sensíveis, como por exemplo suicídio, automutilação, estupro, entre
 outros, serão removidos caso a administração entenda que sejam passíveis de
 disparo de gatilhos emocionais (possam causar recaídas ou sofrimento intenso).
+
 Nossa comunidade é muito ampla, abrangendo pessoas que já passaram por diversas
 experiências e prezamos para que todos se sintam acolhidos. Não temos preparo
 profissional adequado para lidarmos com essas situações, caso sinta necessidade
 de conversar sobre esses temas, encorajamos que procure um profissional.
+
 Sinta-se à vontade para usar os canais de cidades/países para pedir informações
 ou indicações desses profissionais na sua região.
