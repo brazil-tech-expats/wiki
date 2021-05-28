@@ -109,7 +109,7 @@ de privacidade de outras pessoas.
 Não faça; isto inclui emoji, imagem, mensagens e menção de spam nos
 canais ou em mensagens diretas.
 
-### 9. Sem personificação, contas fakes ou trolls\]
+### 9. Sem personificação, contas fakes ou trolls
 
 Não se faça passar por outras pessoas. Contas fakes ou perfis
 fraudulentos - quando descobertos - poderão ser deletadas sem aviso
