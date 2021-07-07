@@ -145,3 +145,29 @@ de conversar sobre esses temas, encorajamos que procure um profissional.
 
 Sinta-se à vontade para usar os canais de cidades/países para pedir informações
 ou indicações desses profissionais na sua região.
+
+### 13. Não compartilhe desinformação / fake news
+
+Mensagens com conteúdo claramente falso não são aceitos e serão removidos.
+Um conteúdo claramente falso é definido quando dois ou mais agentes de checagem
+de fatos declararem como falso, sendo eles:
+
+- [Agência Lupa](https://piaui.folha.uol.com.br/lupa/)
+- [Boatos.org](https://www.boatos.org/)
+- [Aos Fatos](https://www.aosfatos.org/)
+- [Projeto Comprova](https://projetocomprova.com.br)
+- [Fato ou Fake](https://g1.globo.com/fato-ou-fake/)
+- [E-Farsas](https://www.e-farsas.com)
+
+- [Full Fact](https://fullfact.org)
+- [Our.news](https://our.news/trending/)
+- [Snopes](https://www.snopes.com)
+- [Poynter (International Fact-Checking Network)](https://www.poynter.org/news/fact-checking/)
+- [Reuters](https://www.reuters.com/fact-check)
+- [Politifact](https://www.politifact.com)
+- [FactCheck.org](https://www.factcheck.org)
+- [Associated Press](https://apnews.com/hub/ap-fact-check)
+
+Aquele que postar esse conteúdo será comunicado que está quebrando as regras e
+sua mensagem será apagada. Caso a pessoa insista em continuar quebrando a regra,
+estará sujeita à sanções descritas neste documento.
