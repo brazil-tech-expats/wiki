@@ -92,10 +92,11 @@ Você não deve enviar quaisquer mensagens que sejam consideradas sujas,
 vulgares, sexualmente assediantes, ofensivas raciais, que contenham
 calúnias étnicas, ou de qualquer forma discriminatórias.
 
-### 6. Sem contornar punições
+### 6. Sem contornar decisōes anteriores
 
 A tentativa de contornar filtros de linguagem proibidos ou de contornar
-uma punição resultará em uma expulsão.
+quaisquer decisōes tomadas pela administração em benefício de maior
+segurança da comunidade resultará na suspensão da conta de usuário.
 
 ### 7. Informações pessoais
 
