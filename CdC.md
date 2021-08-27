@@ -105,6 +105,8 @@ Não compartilhe informações pessoais próprias ou de outras pessoas
 endereço residencial, número de telefone e documentos. Respeite o desejo
 de privacidade de outras pessoas.
 
+Mensagens postadas na comunidade não podem ser reproduzidas em outros lugares  sem o consentimento do seu autor.
+
 ### 8. Sem Spam
 
 Não faça; isto inclui emoji, imagem, mensagens e menção de spam nos
