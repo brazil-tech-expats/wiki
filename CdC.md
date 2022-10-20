@@ -161,6 +161,7 @@ de fatos declararem como falso, sendo eles:
 - [Projeto Comprova](https://projetocomprova.com.br)
 - [Fato ou Fake](https://g1.globo.com/fato-ou-fake/)
 - [E-Farsas](https://www.e-farsas.com)
+- [Fato ou Boato](https://www.justicaeleitoral.jus.br/fato-ou-boato/)
 
 - [Full Fact](https://fullfact.org)
 - [Our.news](https://our.news/trending/)
