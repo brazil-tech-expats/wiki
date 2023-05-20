@@ -7,5 +7,5 @@
 * [Código de Conduta](http://localhost:5000/s/HGCfrtEo2u5WTCfiwDbv/#c%C3%B3digo-de-conduta)
 * [Países](countries.md)
 * [Países Baixos](countries/netherlands.md)
-* [Espanha](espanha/README.md)
-  * [Valência](espanha/valencia.md)
+* [🇪🇸 Espanha](espanha/README.md)
+  * [🥘 Valência](espanha/valencia.md)
