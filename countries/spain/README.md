@@ -1,4 +1,4 @@
-# 🇪🇸 Espanha
+# 🇪🇸 🇪🇸 Espanha
 
 {% hint style="info" %}
 Estas informações podem estar desatualizadas e são apenas uma orientação
@@ -28,6 +28,7 @@ Sempre é aconselhável contratar advogados especialistas em _extranjeria_ para 
 * **TIE**: Tarjeta de Identificación de Extranjero. Este é o documento que irá associado (impresso nele) o **NIE**
 * [**Certificado digital**](https://www.sede.fnmt.gob.es/certificados/persona-fisica)**:** Isto permite a você fazer quase todas (pode até que todas) as burocracias online
 * [Cl@ve](https://clave.gob.es/clave\_Home/clave.html): Isto também permite fazer burocracias online, mas nem todas
+* [**Padrón/Empadronamiento**](https://administracion.gob.es/pagFront/tramites/fichaTramite.htm?idTramiteSeleccionado=3485\&idMateria=21\&idBoletin=21): Este documento certifica onde você mora e é necessário para a maioria de processos burocráticos na Espanha. O local para se registrar e pedir o certificado depois do registro, é a prefeitura (_ayuntamiento_) do municipio que você more.
 
 Existe o caso de você poder ter um número associado de **NIE** quando dá entrada em um tipo de residência (a mais comum) e somente depois de aprovado o processo, você poder pegar o **TIE**
 
@@ -47,7 +48,7 @@ Bot no Telegram pra pegar citas em algumas prefeituras: [https://t.me/ayuinfo\_b
 
 ### Salários
 
-Uma referencia rápida é que na Espanha em geral os salarios sao mais altos que Portugal mas mais baixos que países como Países Baixos, Alemanha e UK.
+Uma referencia rápida é que na Espanha em geral os salários são mais altos que Portugal mas mais baixos que países como Países Baixos, Alemanha e UK.
 
 Nas cidades onde se paga mais e tem mais oportunidade é Madrid e Barcelona
 
@@ -55,6 +56,7 @@ Nas cidades onde se paga mais e tem mais oportunidade é Madrid e Barcelona
 
 * LinkedIn
 * [InfoJobs](https://www.infojobs.net/)
+* [Manfred](https://www.getmanfred.com/ofertas-empleo?onlyActive=true\&currency=%E2%82%AC)
 
 ### Impostos
 
@@ -75,9 +77,21 @@ Para calcular os descontos na folha de pagamento, use o [AfterTaxes](https://sal
   * [Wallapop](https://es.wallapop.com/)
   * [Milanuncios](https://www.milanuncios.com/)
 
+A maioria dos aluguéis é por imobiliária, o que complica, porque tem oferece mais segurança ao proprietário. Estes são alguns dos requisitos mais comuns:
+
+* Contrato/fonte de renda estável
+* Que o valor do aluguel não seja mais de 30% do salário
+* Valores:
+  * Um mês de aluguel adiantado
+  * Um caução (_fianza_)
+  * Um mês pra imobiliária (é tipo uma taxa, não devolve). Este ponto deve mudar com a nova [Lei de Vivienda](https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/transportes/Paginas/2023/170523-ley-derecho-vivienda-aprobacion-definitiva.aspx)
+* Documentos de identidade. Todas deveriam aceitar o passaporte, mas pode ser que algumas não gostem ou seja um ponto negativo não ter o NIE/DNI
+
+É possível que algumas imobiliárias peças mais meses adiantados de aluguel, dependendo do seu perfil ou dos procedimentos deles, mas nao e o padrao.
+
 ### Serviços
 
-#### Internet e telefóne
+#### Internet e telefone
 
 A Espanha é um pais que investiu muito na rede de fibra em todo o territorio, entao a velocidade da internet aqui é bastante boa.
 
@@ -125,6 +139,24 @@ Geralmente os seguros de saúde privados mais recomendados pela comunidade são 
 Uma coisa a ter em conta na Espanha é que há mais filmes dublados do que legendados. A cultura de legendar filmes aqui é muito forte.
 
 Se você tem interesse em ver filmes legendados, procure pelos filmes VOSE acrônimo de _Versión Original Subtitulada en Español_
+
+### Comida
+
+Em Espanha os horários de comida geralmente sao:
+
+* Desayuno (8-9 hrs)
+* Almuerzo (11-12 hrs)
+* Comida (14-15 hrs)
+* Merienda (18-19 hrs)
+* Cena (21-22 hrs)
+
+Este é um bom referencial para saber a que horários os restaurantes e cafeterias servem as comidas.
+
+{% hint style="info" %}
+É comum que você tenha que reservar mesa para comer ou jantar, dependendo do restaurante e cidade que você esteja.
+
+Se planeje com antencedência porque se nao podem só sobrar os lugares de menor qualidade
+{% endhint %}
 
 ## Cultura
 
