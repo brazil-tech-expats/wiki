@@ -4,7 +4,7 @@
 Antes de ler esta página, leia a página de [Espanha](./) pra ter um contexto a nível nacional
 {% endhint %}
 
-Em Valência o idioma co-oficial além do espanhol, é o valenciano. É um idioma que vêm da mesma baste do catalão e por isso são muito parecidos, mas evite falar que são a mesma coisa. Ainda mais para valencianos.
+Em Valência o idioma co-oficial além do espanhol, é o valenciano. É um idioma que vêm da mesma base do catalão e por isso são muito parecidos, mas evite falar que são a mesma coisa. Ainda mais para valencianos.
 
 A diferença do que acontece na Catalunha, o valenciano existe no entorno cultural e de governo, mas não é de obrigatório de saber para viver em Valência. &#x20;
 
@@ -76,7 +76,7 @@ Um dos melhores cinemas de Valência, fica fora da cidade, em Quart de Poblet. C
 
 #### Cafeteria/Coworking
 
-O [Flyng Been Coffee](https://flyingbeancoffee.com/) é uma cafeteria com cafés bons (segundo a comunidade) e que além disso oferece um espaço de [coworking](https://www.instagram.com/flyingbeanworkspace/) que já foi (quem sabe ainda é) frequentado por algumas pessoas do canal #valencia no Slack
+O [Flyng Been Coffee](https://flyingbeancoffee.com/) é uma cafeteria com cafés bons (segundo a comunidade) e que além disso oferece um espaço de [coworking](https://www.instagram.com/flyingbeanworkspace/) que hoje em dia (maio/23) é frequentado por algumas pessoas do canal #valencia no Slack
 
 #### Paella
 
@@ -92,18 +92,18 @@ Atualmente existem a zona A (mas central), zona B (municípios mais longe) e Zon
 
 ### Metrô
 
-O [MetroValencia](https://www.metrovalencia.es/) funciona muito bem em geral. Atualmente não tem muito ou nenhum horário circulando de madrugada, mas isto pode variar se é verão ou não.
+O [MetroValencia](https://www.metrovalencia.es/) funciona muito bem no geral. Atualmente não tem muito ou nenhum horário circulando de madrugada, mas isto pode variar se é verão ou não.
 
 ### Ônibus
 
-A [EMT](https://emtvalencia.info/es/) é a empresa de ônibus da cidade de Valência. O serviço deles é bom e o app para saber, por exemplo, quando passará o bus no ponto, funciona bem
+A [EMT](https://emtvalencia.info/es/) é a empresa de ônibus da cidade de Valência. O serviço deles é bom e o app para saber, por exemplo, quando passará o bus no ponto, funciona bem.
 
 Já o [MetroBus](https://es.wikipedia.org/wiki/Autobuses\_Metropolitanos\_de\_Valencia\_\(MetroBus\)) é uma alternativa ao metrô ou a única opção nos municípios onde não chega metrô.
 
 ### Bicicleta
 
-A cidade de Valência tem uma boa extensão de ciclovias e ciclo-ruas para andar de bike. Para ter acesso a uma bike, você tem algumas opçoes.
+A cidade de Valência tem uma boa extensão de ciclovias e ciclo-ruas para andar de bike. Para ter acesso a uma bike, você tem algumas opções.
 
-* [Subscriçao de bikes](https://www.kleta.com/en/)
+* [Subscrição de bikes](https://www.kleta.com/en/)
 * Serviço municipal público-privado de bikes, [Valenbisi](https://www.valenbisi.es/)
 * Comprar uma bike usada no Wallapop

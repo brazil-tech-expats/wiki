@@ -1,7 +1,7 @@
 # 🇪🇸 Espanha
 
 {% hint style="info" %}
-Estas informações podem estar desatualizadas e são apenas uma orientação
+Estas informações podem estar desatualizadas e são apenas uma orientação.
 {% endhint %}
 
 Espanha a pesar de ser um pais pequeno comparado com o Brasil, tem muita diversidade de culturas e costumes. Geralmente há mudanças culturais e até de idioma dependendo da comunidade autônoma que você estiver. Por exemplo, na Catalunha é comum falar catalão e é o idioma predominante em muitos municípios.
@@ -77,7 +77,7 @@ Para calcular os descontos na folha de pagamento, use o [AfterTaxes](https://sal
   * [Wallapop](https://es.wallapop.com/)
   * [Milanuncios](https://www.milanuncios.com/)
 
-A maioria dos aluguéis é por imobiliária, o que complica, porque tem oferece mais segurança ao proprietário. Estes são alguns dos requisitos mais comuns:
+A maioria dos aluguéis é por imobiliária, o que complica, porque oferece mais segurança ao proprietário. Estes são alguns dos requisitos mais comuns:
 
 * Contrato/fonte de renda estável
 * Que o valor do aluguel não seja mais de 30% do salário
@@ -87,7 +87,7 @@ A maioria dos aluguéis é por imobiliária, o que complica, porque tem oferece 
   * Um mês pra imobiliária (é tipo uma taxa, não devolve). Este ponto deve mudar com a nova [Lei de Vivienda](https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/transportes/Paginas/2023/170523-ley-derecho-vivienda-aprobacion-definitiva.aspx)
 * Documentos de identidade. Todas deveriam aceitar o passaporte, mas pode ser que algumas não gostem ou seja um ponto negativo não ter o NIE/DNI
 
-É possível que algumas imobiliárias peças mais meses adiantados de aluguel, dependendo do seu perfil ou dos procedimentos deles, mas nao e o padrao.
+É possível que algumas imobiliárias peçam mais meses adiantados de aluguel, dependendo do seu perfil ou dos procedimentos deles, mas nao e o padrão.
 
 ### Serviços
 
