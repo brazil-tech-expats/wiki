@@ -66,6 +66,14 @@ Para calcular o que te corresponde declarar e pagar de imposto a partir do que v
 
 Para calcular os descontos na folha de pagamento, use o [AfterTaxes](https://salaryaftertax.com/es/salary-calculator). Ele é bem preciso
 
+### Empresas
+
+Em Espanha a maioria das empresas são consultoras. Depois tem uma parte de multinacionais ou empresas grandes (bancos) como Cabify, Glovo, OpenBank, etc. E por último tem empresas de produto pequeno ou médio.
+Pela parte das consultoras, tem de tudo. Desde as conhecidas Big Four que na sua maioria fazem [exploração dos desenvolvedores](https://www.elconfidencial.com/empresas/2023-01-16/redada-trabajo-big-four-control-horarios_3557071/), outras que vai depender do projeto e outras que são OK/boas.
+Para ter uma referência das consultoras, se pode consultar o site [Malditas Consultoras](https://malditasconsultoras.com/) ou o Glassdoor.
+
+Uma quarta opção são as empresas de outros países da Europa (exemplo Alemanha ou UK) que tenham sede em Espanha.
+
 ## Moradia
 
 ### Portais
