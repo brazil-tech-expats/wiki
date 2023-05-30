@@ -1,7 +1,7 @@
 # 🇪🇸 Espanha
 
 {% hint style="info" %}
-Estas informações podem estar desatualizadas e são apenas uma orientação
+Estas informações podem estar desatualizadas e são apenas uma orientação.
 {% endhint %}
 
 Espanha a pesar de ser um pais pequeno comparado com o Brasil, tem muita diversidade de culturas e costumes. Geralmente há mudanças culturais e até de idioma dependendo da comunidade autônoma que você estiver. Por exemplo, na Catalunha é comum falar catalão e é o idioma predominante em muitos municípios.
@@ -28,6 +28,7 @@ Sempre é aconselhável contratar advogados especialistas em _extranjeria_ para 
 * **TIE**: Tarjeta de Identificación de Extranjero. Este é o documento que irá associado (impresso nele) o **NIE**
 * [**Certificado digital**](https://www.sede.fnmt.gob.es/certificados/persona-fisica)**:** Isto permite a você fazer quase todas (pode até que todas) as burocracias online
 * [Cl@ve](https://clave.gob.es/clave\_Home/clave.html): Isto também permite fazer burocracias online, mas nem todas
+* [**Padrón/Empadronamiento**](https://administracion.gob.es/pagFront/tramites/fichaTramite.htm?idTramiteSeleccionado=3485\&idMateria=21\&idBoletin=21): Este documento certifica onde você mora e é necessário para a maioria de processos burocráticos na Espanha. O local para se registrar e pedir o certificado depois do registro, é a prefeitura (_ayuntamiento_) do municipio que você more.
 
 Existe o caso de você poder ter um número associado de **NIE** quando dá entrada em um tipo de residência (a mais comum) e somente depois de aprovado o processo, você poder pegar o **TIE**
 
@@ -47,7 +48,7 @@ Bot no Telegram pra pegar citas em algumas prefeituras: [https://t.me/ayuinfo\_b
 
 ### Salários
 
-Uma referencia rápida é que na Espanha em geral os salarios sao mais altos que Portugal mas mais baixos que países como Países Baixos, Alemanha e UK.
+Uma referencia rápida é que na Espanha em geral os salários são mais altos que Portugal mas mais baixos que países como Países Baixos, Alemanha e UK.
 
 Nas cidades onde se paga mais e tem mais oportunidade é Madrid e Barcelona
 
@@ -55,6 +56,7 @@ Nas cidades onde se paga mais e tem mais oportunidade é Madrid e Barcelona
 
 * LinkedIn
 * [InfoJobs](https://www.infojobs.net/)
+* [Manfred](https://www.getmanfred.com/ofertas-empleo?onlyActive=true\&currency=%E2%82%AC)
 
 ### Impostos
 
@@ -63,6 +65,14 @@ O IRPF é o _Impuesto sobre la Renta de las Personas Físicas_. Este geralmente 
 Para calcular o que te corresponde declarar e pagar de imposto a partir do que você recebe, tem este link: [https://www.bbva.es/finanzas-vistazo/ef/empresas/tramos-irpf.html](https://www.bbva.es/finanzas-vistazo/ef/empresas/tramos-irpf.html)
 
 Para calcular os descontos na folha de pagamento, use o [AfterTaxes](https://salaryaftertax.com/es/salary-calculator). Ele é bem preciso
+
+### Empresas
+
+Em Espanha a maioria das empresas são consultoras. Depois tem uma parte de multinacionais ou empresas grandes (bancos) como Cabify, Glovo, OpenBank, etc. E por último tem empresas de produto pequeno ou médio.
+Pela parte das consultoras, tem de tudo. Desde as conhecidas Big Four que na sua maioria fazem [exploração dos desenvolvedores](https://www.elconfidencial.com/empresas/2023-01-16/redada-trabajo-big-four-control-horarios_3557071/), outras que vai depender do projeto e outras que são OK/boas.
+Para ter uma referência das consultoras, se pode consultar o site [Malditas Consultoras](https://malditasconsultoras.com/) ou o Glassdoor.
+
+Uma quarta opção são as empresas de outros países da Europa (exemplo Alemanha ou UK) que tenham sede em Espanha.
 
 ## Moradia
 
@@ -75,9 +85,21 @@ Para calcular os descontos na folha de pagamento, use o [AfterTaxes](https://sal
   * [Wallapop](https://es.wallapop.com/)
   * [Milanuncios](https://www.milanuncios.com/)
 
+A maioria dos aluguéis é por imobiliária, o que complica, porque oferece mais segurança ao proprietário. Estes são alguns dos requisitos mais comuns:
+
+* Contrato/fonte de renda estável
+* Que o valor do aluguel não seja mais de 30% do salário
+* Valores:
+  * Um mês de aluguel adiantado
+  * Um caução (_fianza_)
+  * Um mês pra imobiliária (é tipo uma taxa, não devolve). Este ponto deve mudar com a nova [Lei de Vivienda](https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/transportes/Paginas/2023/170523-ley-derecho-vivienda-aprobacion-definitiva.aspx)
+* Documentos de identidade. Todas deveriam aceitar o passaporte, mas pode ser que algumas não gostem ou seja um ponto negativo não ter o NIE/DNI
+
+É possível que algumas imobiliárias peçam mais meses adiantados de aluguel, dependendo do seu perfil ou dos procedimentos deles, mas nao e o padrão.
+
 ### Serviços
 
-#### Internet e telefóne
+#### Internet e telefone
 
 A Espanha é um pais que investiu muito na rede de fibra em todo o territorio, entao a velocidade da internet aqui é bastante boa.
 
@@ -125,6 +147,24 @@ Geralmente os seguros de saúde privados mais recomendados pela comunidade são 
 Uma coisa a ter em conta na Espanha é que há mais filmes dublados do que legendados. A cultura de legendar filmes aqui é muito forte.
 
 Se você tem interesse em ver filmes legendados, procure pelos filmes VOSE acrônimo de _Versión Original Subtitulada en Español_
+
+### Comida
+
+Em Espanha os horários de comida geralmente sao:
+
+* Desayuno (8-9 hrs)
+* Almuerzo (11-12 hrs)
+* Comida (14-15 hrs)
+* Merienda (18-19 hrs)
+* Cena (21-22 hrs)
+
+Este é um bom referencial para saber a que horários os restaurantes e cafeterias servem as comidas.
+
+{% hint style="info" %}
+É comum que você tenha que reservar mesa para comer ou jantar, dependendo do restaurante e cidade que você esteja.
+
+Se planeje com antencedência porque se nao podem só sobrar os lugares de menor qualidade
+{% endhint %}
 
 ## Cultura
 
