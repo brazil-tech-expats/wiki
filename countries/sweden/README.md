@@ -16,37 +16,37 @@ E também existem problemas como a Suécia ser um dos países mais solitários d
 
 ## Documentação e burocracia
 
-A burocracia sueca para emissao de residencia e bem reduzida e é uma das mais simplificadas da Europa. Em geral, um pedido de residencia por trabalho especializado e concedido entre 2 a 4 semanas, dependendo do caso. O orgão responsavel por processar esses pedidos e a [**Migrationsverket**](https://www.migrationsverket.se), que e basicamente a secretaria de imigracão sueca.
+A burocracia sueca para emissão de residência é bem reduzida e é uma das mais simplificadas da Europa. Em geral, um pedido de residência por trabalho especializado é concedido entre 2 a 4 semanas, dependendo do caso. O órgão responsavel por processar esses pedidos é a [**Migrationsverket**](https://www.migrationsverket.se), que é basicamente a secretaria de imigração sueca.
 
-Todo o pedido de visto deve ser feito pela empresa contratante, e o funcionário nao precisa fazer absolutamente nada (alem de so preencher algum eventual formulario do departamento de imigracão do contratante para envio a Migrationsverket). O funcionário nao precisar pagar absolutamente nada pelo processo tambem.
+Todo o pedido de visto deve ser feito pela empresa contratante, e o funcionário nao precisa fazer absolutamente nada (além de só preencher algum eventual formulário do departamento de imigracão do contratante para envio à Migrationsverket). O funcionário nao precisar pagar absolutamente nada pelo processo também.
 
-Em geral, você so precisa de um passaporte valido e um formulario q o empregador normalmente pede pra preencher e iniciar o processo do visto.
+Em geral, você só precisa de um passaporte válido e um formulário que o empregador normalmente pede pra preencher e iniciar o processo do visto.
 
-Recentemente o governo comecou a reformar a lei de imigracão, e varias mudancas relevantes estão sendo implementadas e serão descritas nesse documento. Uma das mudancas, e que agora voce so pode ter um visto tendo um contrato de trabalho de real e assinado (antes, somente um termo de intencao era suficiente). 
+Recentemente o governo comecou a reformar a lei de imigracão, e várias mudanças relevantes estão sendo implementadas e serão descritas nesse documento. Uma das mudanças é que agora você só pode ter um visto tendo um contrato de trabalho real e assinado (antes, somente um termo de intenção era suficiente). 
 
-Isso passou a ser feito para proteger os imigrantes de propostas "furadas" ou empregadores q modificavam a proposta e apresentavam um contrato diferente do acordado quando o funcionario chegava no pais. Hoje um contrato firme é necessário para se emitir o visto e evitar esse problema.
+Isso passou a ser feito para proteger os imigrantes de propostas "furadas" ou empregadores que modificavam a proposta e apresentavam um contrato diferente do acordado quando o funcionário chegava ao país. Hoje um contrato firme é necessário para se emitir o visto e evitar esse problema.
 
-O visto para conjugues e filhos é solicitado e emitido ao mesmo tempo do visto do titular, o que facilita muito o processo de reunificacao familiar. Antigamente o visto de residencia do conjugue do titular, tinha o mesmo status do principal, porem isso mudou em 2021. Agora, o conjugue para ter direito ao visto permanente e cidadania, precisa estar cumprindo algumas condicoes especificas, e estar trabalhando na Suécia.
+O visto para cônjuges e filhos é solicitado e emitido ao mesmo tempo do visto do titular, o que facilita muito o processo de reunificação familiar. Antigamente o visto de residência do cônjuge do titular, tinha o mesmo status do principal, porém isso mudou em 2021. Agora, o cônjuge para ter direito ao visto permanente e cidadania, precisa estar cumprindo algumas condições específicas e estar trabalhando na Suécia.
 
-Por ex: Hoje caso o titular tenha conseguido cidadania, mas o conjugue nao trabalhe na Suécia, ao invés da cidadania, a Migrationsverket apenas estende o visto temporário indefinidamente, até que a pessoa atenda as condicoes necessárias.
+Por ex: Hoje caso o titular tenha conseguido cidadania, mas o cônjuge nao trabalhe na Suécia, ao invés da cidadania, a Migrationsverket apenas estende o visto temporário indefinidamente, até que a pessoa atenda as condições necessárias.
 
 
 {% hint style="info" %}
-Lembre-se: Um contrato assinado tem quase peso de lei na Suécia. LEIA COM ATENCAO O QUE VOCE ESTÁ ASSINANDO!
+Lembre-se: Um contrato assinado tem quase peso de lei na Suécia. LEIA COM ATENÇÃO O QUE VOCE ESTÁ ASSINANDO!
 {% endhint %}
 
 
 ### Definições básicas
 
-* **Uppehållstillstånd**: É o visto de trabalho temporário Sueco. E o primeiro visto que você adquire ao chegar no pais e permanece com ele nos   primeiros 4 anos.
-  * **Upperättstillstånd**: É o visto de residencia permanente. Você tem direito a esse visto apos 4 anos continuos de residência e trabalho na Suécia.
-  * **Medborgarskåpet**: Literalmente "cidadania". Você tem direito a ela após 5 anos vivendo na Suécia e tendo atendido alguns requisitos especificos.
-* **Identitetskortet**: Literalmente "cartão de identidade". Existem 2 identidades diferentes na Suécia, que é a identidade de cidadao que é emitida pela Polisen, e a identidade de imigrante que é a emitida pela Skatteverket. As 2 tem o mesmo nome. A identidade tambem já possui um certificado digital proprio.
-* **Personnummer**: É basicamente o seu numero de cidadao, o equivalente do CPF brasileiro.
-* **BankID**: É um sistema de autenticacao especial emitido pelos bancos em parceira com o governo. Você precisa do BankID pra praticamente todo tipo de prestacão de servicos na Suécia. E praticamente impossivel sequer fazer compras em lojas online sem ter um (É possivel, mas e um processo chato).
-* **Försäkringskassan**: É a caixa previdenciaria da Suécia (o equivalente da Previdencia brasileira). Você vai ouvir falar bastante deles, pois eles cuidam de VÁRIOS aspectos da sua vida na Suécia.
-* [**EU-kort**](https://www.forsakringskassan.se/privatperson/sjuk/om-du-rest-utomlands-och-blivit-akut-sjuk): E basicamente um cartão de saude europeu em que você consegue atendimento médico em qualquer hospital da UE, como se estivesse na Suécia. Extremamente importante caso você viaje muito pelo continente.
-* **SFI**: Basicamente "Swedish for Immigrants" ou "Svenska för Invandrare", e o curso gratuito de sueco do governo que é oferecido a todos os residentes no pais.
+* **Uppehållstillstånd**: É o visto de trabalho temporário Sueco. É o primeiro visto que você adquire ao chegar no país e permanece com ele nos primeiros 4 anos.
+  * **Upperättstillstånd**: É o visto de residência permanente. Você tem direito a esse visto após 4 anos contínuos de residência e trabalho na Suécia.
+  * **Medborgarskåpet**: Literalmente "cidadania". Você tem direito a ela após 5 anos vivendo na Suécia e tendo atendido alguns requisitos específicos.
+* **Identitetskortet**: Literalmente "cartão de identidade". Existem 2 identidades diferentes na Suécia: a identidade de cidadão, que é emitida pela Polisen, e a identidade de imigrante, que é a emitida pela Skatteverket. As 2 tem o mesmo nome. A identidade também já possui um certificado digital próprio.
+* **Personnummer**: É basicamente o seu número de cidadão, o equivalente ao CPF brasileiro.
+* **BankID**: É um sistema de autenticação especial emitido pelos bancos em parceria com o governo. Você precisa do BankID pra praticamente todo tipo de prestacão de servicos na Suécia. É praticamente impossível sequer fazer compras em lojas online sem ter um (É possivel, mas é um processo chato).
+* **Försäkringskassan**: É a caixa previdenciaria da Suécia (o equivalente da Previdência brasileira). Você vai ouvir falar bastante deles, pois eles cuidam de VÁRIOS aspectos da sua vida na Suécia.
+* [**EU-kort**](https://www.forsakringskassan.se/privatperson/sjuk/om-du-rest-utomlands-och-blivit-akut-sjuk): É basicamente um cartão de saúde europeu em que você consegue atendimento médico em qualquer hospital da UE, como se estivesse na Suécia. Extremamente importante caso você viaje muito pelo continente.
+* **SFI**: Basicamente "Swedish for Immigrants" ou "Svenska för Invandrare", é o curso gratuito de sueco do governo que é oferecido a todos os residentes no país.
 
 ## Caminho feliz para emissão dos documentos
 
