@@ -85,20 +85,20 @@ Lembre-se que você já deve ter pago a taxa ao ir no escritório, não precisa 
 
 ### BankID e abertura de conta bancária
 
-Tendo finalmente recebido o Identitetskortet, você deve abrir uma conta bancária para ter direito ao BankID tambem. Em geral, o seu empregador vai indicar um banco no qual ele recomenda para pagamento do salario. Mas em geral, você pode receber o seu salário por qualquer banco que você preferir.
+Tendo finalmente recebido o Identitetskortet, você deve abrir uma conta bancária para ter direito ao BankID tambem. Em geral, o seu empregador vai indicar um banco no qual ele recomenda para pagamento do salário. Mas em geral, você pode receber o seu salário por qualquer banco que você preferir.
 
-E praticamente impossivel abrir uma conta sem ter o identitetskortet e o personnummer. Somente o SEB abre contas atualmente somente com passaporte.
+É praticamente impossível abrir uma conta sem ter o identitetskortet e o personnummer. Somente o SEB abre contas atualmente somente com passaporte.
 
-Existem dezenas de bancos na Suécia, porem os mais conhecidos sao:
+Existem dezenas de bancos na Suécia, os mais conhecidos são:
 
 * Handelsbanken
 * SEB
 * Nordea
 * ICA Banken.
 
-Provavelmente seu empregador vai pedir para voce abrir uma conta digital para recebimento de salário no primeiro mes, pois quase nunca a documentacao inteira fica pronta em menos de 30 dias.
+Provavelmente seu empregador vai pedir para você abrir uma conta digital para recebimento de salário no primeiro mês, pois quase nunca a documentação inteira fica pronta em menos de 30 dias.
 
-Os bancos digitais normalmente aceitos (e que pagam em SEK e nao precisam de personnummer) sao:
+Os bancos digitais normalmente aceitos (e que pagam em SEK e não precisam de personnummer) são:
 
 * Revolut
 
@@ -107,43 +107,43 @@ Após todo esse processo você pode-se considerar um residente minimamente funci
 
 ### Visto de nômade digital
 
-Uma das propostas da reforma imigratória, é a introducao de um visto de nomade digital pela Suécia. A principio ele seria valido por 1 ano, renovavel por igual periodo. Porem, a proposta ainda está em analise pelo parlamento.
+Uma das propostas da reforma imigratória, é a introdução de um visto de nômade digital pela Suécia. A princípio ele seria válido por 1 ano, renovável por igual período. Porém a proposta ainda está em análise pelo parlamento.
 
 ### CNH (carteira)
 
-Ao chegar na Suécia, você pode usar a CNH brasileira por até 3 meses (lembre-se que a PID e obrigatória), enquanto emite os documentos locais. Após isso, você registrar a sua CNH na Skatteverket e vincula-la ao seu personnummer. Nesse processo, a validade da sua CNH e estendida pra 12 meses após o registro do personnummer.
+Ao chegar na Suécia, você pode usar a CNH brasileira por até 3 meses (lembre-se que a PID e obrigatória), enquanto emite os documentos locais. Após isso, você registrar a sua CNH na Skatteverket e vinculá-la ao seu personnummer. Nesse processo, a validade da sua CNH é estendida pra 12 meses após o registro do personnummer.
 
-Lembre-se: Não há acordo de equivalencia para CNH brasileira na Suécia. Após 1 ano, você deve fazer o curso de direcao locais e emitir uma carteira de motorista sueca.
+Atenção: Não há acordo de equivalência para CNH brasileira na Suécia. Após 1 ano, você deve fazer o curso de direção locais e emitir uma carteira de motorista sueca.
 
 ## Trabalho
 
-A area de tech Suécia e um mix de empresas tradicionais e de consultorias. Em Gothemburgo especialmente, a grande maioria das empresas trabalha para empresas da area da saúde ou automobilista, invariavelmente. Em Estolcomo, e mais variado.
+A area de tech sueca é um mix de empresas tradicionais e de consultorias. Em Gothemburgo especialmente, a grande maioria das empresas trabalha para empresas da area da saúde ou automobilista, invariavelmente. Em Estolcomo é mais variado.
 
 ### Salários
 
-Depende da regiao aonde se mora, porem espere um salario medio de 55-65mil SEK em Estolcomo e arredores e 50-55mil SEK em Gothemburgo e arredores. 
+Depende da regiao aonde se mora, espere um salário médio de 55-65mil SEK em Estolcomo e arredores e 50-55mil SEK em Gothemburgo e arredores.
 
 ### Portais de emprego
 
-* LinkedIn e o melhor lugar para se arrumar empregos aqui, ao menos em tech.
+* LinkedIn é o melhor lugar para se arrumar empregos aqui, ao menos em tech.
 
 ### Impostos
 
-O imposto de renda e gerenciado pela [Skatteverket](https://www.skatteverket.se). Pro salário medio de tech, o imposto sobre a renda gira em torno de 30-35%, dependendo do salario recebido. Lembre-se que o imposto de renda tambem varia de acordo com o municipio que voce mora e pode oscilar 1-2pp.
+O imposto de renda é gerenciado pela [Skatteverket](https://www.skatteverket.se). Pro salário medio de tech, o imposto sobre a renda gira em torno de 30-35%, dependendo do salário recebido. Lembre-se que o imposto de renda também varia de acordo com o município que voce mora e pode oscilar 1-2pp.
 
-Um excelente lugar para se calcular o imposto, e o [Statsskuld](https://statsskuld.se/en/jobs/net-salary), que tem uma calculadora por municipio e mostra exatamente praonde vai cada parte do imposto pago.
+Um excelente lugar para se calcular o imposto é o [Statsskuld](https://statsskuld.se/en/jobs/net-salary), que tem uma calculadora por município e mostra exatamente pra onde vai cada parte do imposto pago.
 
-Na Suécia, a previdencia social ja e inclusa no imposto de renda, então você não precisa pagar um imposto adicional por ela.
+Na Suécia, a previdência social já é inclusa no imposto de renda, então você não precisa pagar um imposto adicional por ela.
 
 ### Empresas
 
-As empresas na Suécia sao bastante variaveis, e em geral a qualidade de vida nelas e relativamente ok em comparacao a varios paises europeus. Entretanto, prepare-se para ser enganado ou ludibriado pelas consultorias (que sao as que trazem a maior parte dos imigrantes de tech).
+As empresas na Suécia sao bastante variáveis e em geral a qualidade de vida nelas é relativamente ok em comparação a varios países europeus. Entretanto prepare-se para ser enganado ou ludibriado pelas consultorias - que são as que trazem a maior parte dos imigrantes de tech.
 
-Nunca assine nada sem ler e nao aceite nada que foi fora do acordado. Algumas consultorias tendem a ludibriar o funcionario e induzi-lo a aceitar algo pior alegando que foi algo contratual. 
+Nunca assine nada sem ler e não aceite nada que foi fora do acordado. Algumas consultorias tendem a ludibriar o funcionário e induzi-lo a aceitar algo pior alegando que foi algo contratual.
 
-No caso de empresas de produto, isso e menos recorrente e costumam tratar o funcionario dentro das leis.
+No caso de empresas de produto isso é menos recorrente e costumam tratar o funcionário dentro das leis.
 
-Lembre-se sempre de SE AFILIAR A UM SINDICATO da sua area (no caso da area de tecnologia e engenharia, e a [Unionen](https://www.unionen.se)). A sua empresa e obrigada a te auxiliar com o seu cadastro no sindicato, caso você tenha problemas e nao pode por impecilhos.
+Lembre-se sempre de SE AFILIAR A UM SINDICATO da sua área (no caso da area de tecnologia e engenharia, e a [Unionen](https://www.unionen.se)). A sua empresa é obrigada a te auxiliar com o seu cadastro no sindicato caso você tenha problemas e não pode por impecilhos.
 
 ## Moradia
 
