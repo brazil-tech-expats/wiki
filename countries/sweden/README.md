@@ -147,30 +147,30 @@ Lembre-se sempre de SE AFILIAR A UM SINDICATO da sua área (no caso da area de t
 
 ## Moradia
 
-Moradia e um problema serissimo na Suécia e um dos paises com o maior nivel de deficit habitacional do continente. O governo tem tomado algumas acoes afim de reduzir esse problema, mas e possivel que ele nunca acabe realmente.
+Moradia é um problema seríssimo na Suécia e um dos países com o maior nivel de deficit habitacional do continente. O governo tem tomado algumas ações afim de reduzir esse problema mas é possivel que ele nunca acabe realmente.
 
-Como imigrante, e praticamente impossivel você conseguir alugar um imovel de cara, principalmente sem personnummer e visto. Normalmente a sua empresa precisa de auxiliar a achar o primeiro imovel. Normalmente esse imovel e de "segunda mão" ou um Airbnb.
+Como imigrante é praticamente impossível você conseguir alugar um imovel de cara, principalmente sem personnummer e visto. Normalmente a sua empresa precisa de auxiliar a achar o primeiro imóvel. Normalmente esse imóvel é de "segunda mão" ou um Airbnb.
 
-Na Suécia, sublocacao e algo permitido, como uma forma de resolver o deficit. Os contratos de aluguel sao divididos em 2 modalidades:
+Na Suécia, sublocação e algo permitido, como uma forma de resolver o deficit. Os contratos de aluguel são divididos em 2 modalidades:
 
-* Primeira mão (förstahand): É o contrato de locacao tradicional de imoveis, similar ao do Brasil. Em geral, eles sao oferecidos por Bostadsbolags ou pelos sistemas de fila do governo (onde os alugueis sao infinitamente mais baratos, mas voce precisa ficar por anos numa fila pra alugar um imovel).
+* Primeira mão (förstahand): É o contrato de locação tradicional de imóveis, similar ao do Brasil. Em geral, eles são oferecidos por Bostadsbolags ou pelos sistemas de fila do governo (onde os alugueis são infinitamente mais baratos, mas você precisa ficar por anos numa fila pra alugar um imóvel).
 
-* Segunda mão (andrahand): É o contrato de sublocacão vigente na Suécia. Em geral voce subloca o apartamento de algum inquilino q precisa sair do apartamento por algum motivo, porem nao quer abrir mao do imovel, ou de alguma empresa dona do imovel. Em geral esses contratos são bem mais caros, porem e mais fácil conseguir imoveis por eles.
+* Segunda mão (andrahand): É o contrato de sublocacão vigente na Suécia. Em geral você subloca o apartamento de algum inquilino que precise sair do apartamento por algum motivo, porém não quer abrir mão do imóvel, ou de alguma empresa dona do imóvel. Em geral esses contratos são bem mais caros, porem é mais fácil conseguir imóveis por eles.
 
-Os suecos em media sao bem preconceituosos com quem nao faz negocios emm sueco. Caso precise de um apartamento de segunda mão, sempre negocie na internet usando o Google translator. Suas chances de achar um imovel vão aumentar BASTANTE!
+Os suecos em média são bem preconceituosos com quem nao faz negócios em sueco. Caso precise de um apartamento de segunda mão, sempre negocie na internet usando o Google translator. Suas chances de achar um imovel vão aumentar BASTANTE!
 
-Os sites mais conhecidos para procurar imoveis de segunda mão sao:
+Os sites mais conhecidos para procurar imóveis de segunda mão sao:
 
 * [Blocket/QASA](https://blocket.se)
 * [Sammtrygg](https://www.samtrygg.se/)
 
-O site para acessar o sistema de filas depende do municipio:
+O site para acessar o sistema de filas depende do município:
 
 * Gothemburgo e regioes proximas: [Göteborgsbostadskö - Boplats](https://www.boplats.se)
 
-Existem tambem bostadsbolagets que alugam em primeira mão por fora do sistema de fila, porem o aluguel nelas e mais caro e costuma ser BEM disputado. Você normalmente aplica para o um imovel e é feito um sorteio, no qual voce pode ou nao ser chamado para ver o imovel.
+Existem tambem bostadsbolagets que alugam em primeira mão por fora do sistema de fila, porém o aluguel nelas é mais caro e costuma ser BEM disputado. Você normalmente aplica para um imóvel e é feito um sorteio, no qual você pode ou não ser chamado para ver o imóvel.
 
-Algumas empresas sao:
+Algumas empresas são:
 
 * [Willhem](https://willhem.se)
 * [Victoriahem](https://www.victoriahem.se/)
@@ -182,43 +182,43 @@ Algumas empresas sao:
 
 #### Internet e telefone
 
-A Suécia e um dos paises com a maior taxa de conexão a internet do mundo e com uma das internets mais baratas do continente, gracas a incentivos do governo desde os anos 90 para isso acontecer.
+A Suécia é um dos paises com a maior taxa de conexão a internet do mundo e com uma das internets mais baratas do continente, graças a incentivos do governo desde os anos 90 para isso acontecer.
 
-Tambem possui uma cobertura de telefonia celular proxima do 100% na maioria das operaodoras, e a telefonia celular é de ótima qualidade e com um preco absurdamente baixo em relacao ao resto da Europa.
+Também possui uma cobertura de telefonia celular proxima do 100% na maioria das operaodoras, a telefonia celular é de ótima qualidade e com um preço absurdamente baixo em relacao ao resto da Europa.
 
 Operadoras:
 
 * Mais conhecidas e ~~caras~~ completas:
-  * [Telia SE](https://telia.se): É a mais completa e tem cobertura melhor em alguns municipios mais afastados em que outras operadoras nao tem.
-  * [Tele2](https://tele2.se): É a segunda melhor operadora e tem bastante servicos agregados em combos tambem.
+  * [Telia SE](https://telia.se): É a mais completa e tem cobertura melhor em alguns municípios mais afastados em que outras operadoras não tem.
+  * [Tele2](https://tele2.se): É a segunda melhor operadora e tem bastantes servicos agregados em combos também.
 * Operadoras mais baratas e com menos servicos agregados:
-  * [Telenor](https://telenor.se): Possui um pacote de internet fixa muito barato, mas e um pouco instavel as vezes
+  * [Telenor](https://telenor.se): Possui um pacote de internet fixa muito barato, mas é um pouco instável as vezes
   * [3 SE](https://tre.se): Somente tem telefonia e internet fixa via 5G.
 
-Infelizmente, os servicos prepagos nao sao oferecidos pelas operadoras principais, e sim por MVNOs das operadoras principais. Aqui as operadoras segregam esses clientes nas MVNOs para separacao de billing e rede. Somente a Telenor vende planos prepagos diretamente.
+Infelizmente os serviços pré-pagos não são oferecidos pelas operadoras principais, e sim por MVNOs das operadoras principais. Aqui as operadoras segregam esses clientes nas MVNOs para separacao de billing e rede. Somente a Telenor vende planos pré-pagos diretamente.
 
-As mais conhecidas sao:
+As mais conhecidas são:
 
-* [Halebop](https://halebop.se): É a MVNO de prepagos da Telia. Possui a mesma cobertura e qualidade de servicos.
-* [Comviq](https://comviq.se): É a MVNO de prepagos da Tele2. Possui uma das carteiras de planos mais baratas pra prepagos e tem um plano prepago ilimitado, util pra quando voce nao tem internet em casa por algum motivo. É tambem uma das mais amigaveis para imigrantes.
+* [Halebop](https://halebop.se): É a MVNO de pré-pagos da Telia. Possui a mesma cobertura e qualidade de serviços.
+* [Comviq](https://comviq.se): É a MVNO de pré-pagos da Tele2. Possui uma das carteiras de planos mais baratas pra pré-pagos e tem um plano prepago ilimitado, útil pra quando você não tem internet em casa por algum motivo. É também uma das mais amigáveis para imigrantes.
 
 ## Saúde
 
 ### Saúde pública
 
-O sistema de saúde sueco e "gratuito" e cobre relativamente bem todo o territorio nacional.
+O sistema de saúde sueco é "gratuito" e cobre relativamente bem todo o território nacional.
 
-As aspas no gratuito, sao porque você precisa pagar por consulta (100 SEK por consultas em geral, ou 250 SEK por especialistas). Existe um cap de cobranca de 1200 SEK por ano, no qual você consegue um Frikort (cartao de gratuidade) e passa a ser isento da cobranca por 1 ano.
+As aspas no gratuito são porque você precisa pagar por consulta (100 SEK por consultas em geral, ou 250 SEK por especialistas). Existe um cap de cobrança de 1200 SEK por ano, no qual você consegue um Frikort (cartao de gratuidade) e passa a ser isento da cobrança por 1 ano.
 
-Não espere atendimento facil, pois e absurdamente dificil ter acesso a um medico, e dependeno do procedimento, pode levar meses pra coneguir.
+Não espere atendimento fácil, é absurdamente difícil ter acesso a um médico e dependendo do procedimento pode levar meses pra conseguir.
 
-Nos últimos anos (2023 para atrás), o sistema pública tem sofrido alguns cortes e falta profissionais, então em alguns casos podem existir demoras curtas para um agendamento o geral e demoras longas para especialistas. Isto vai depender do município que você more.
+Nos últimos anos (2023 para atrás), o sistema público tem sofrido alguns cortes e faltam profissionais, então em alguns casos podem existir demoras curtas para um agendamento geral e demoras longas para especialistas. Isto vai depender do município que você more.
 
-Voce precisa se inscrever numa fila para ser registrado em um medico da familia, para então conseguir atendimento. Isso pode levar até 3 meses.
+Você precisa se inscrever numa fila para ser registrado em um médico da família, para então conseguir atendimento. Isso pode levar até 3 meses.
 
-É possivel se consultar no sistema de saude sueco, sendo "ilegal" ou não tendo personnummer. Porem você precisa pagar o valor cheio de cada consulta, e custa BEM caro. Recomendo seguro saude pros primeiros 3 meses na Suécia, caso a documentacao se enrole e etc.
+É possivel se consultar no sistema de saúde sueco, sendo "ilegal" ou não tendo personnummer. Porém você precisa pagar o valor cheio de cada consulta, o que custa BEM caro. Recomendo seguro saúde pros primeiros 3 meses na Suécia, caso a documentação se enrole etc.
 
-Voce pode localizar as clinicas ligando para o 1177 (eles tem atendimento em Ingles), ou indo no site deles:
+Você pode localizar as clínicas ligando para o 1177 (eles tem atendimento em inglês), ou indo no site deles:
 
 * [1177](https://1177.se)
 
@@ -229,13 +229,13 @@ Voce pode localizar as clinicas ligando para o 1177 (eles tem atendimento em Ing
 * Ofertas postadas pelos usuários. Igual ao Pelando do Brasil: [Pricerunner](https://www.pricerunner.com/)
 * Pra vender e comprar coisas usadas
   * [Blocket](https://blocket.se/)
-  * [Tradera](https://www.tradera.se/). Este portal é de leiloes, estilo o Ebay. Sempre se acha bastante coisa exótica lá.
+  * [Tradera](https://www.tradera.se/). Este portal é de leilões, estilo o eBay. Sempre se acha bastante coisa exótica lá.
 
 ### Cinema
 
-Na Suécia, mesmo não falando sueco você consegue usufruir de um cineminha normalmente. A grande maioria dos filmes sao legendados em Sueco com audio em Ingles (excluindo as producoes locais). 
+Na Suécia, mesmo não falando sueco você consegue usufruir de um cineminha normalmente. A grande maioria dos filmes são legendados em Sueco com áudio em Ingles (excluindo as produções locais). 
 
-A maior rede de cinemas local e a [Filmstaden](https://filmstaden.se), e os ingressos sao bem acessiveis.
+A maior rede de cinemas local e a [Filmstaden](https://filmstaden.se) e os ingressos são bem acessíveis.
 
 ### Comida
 
@@ -249,9 +249,9 @@ Na Suécia os horários de comida geralmente sao:
 Este é um bom referencial para saber a que horários os restaurantes e cafeterias servem as comidas.
 
 {% hint style="info" %}
-Não e incomum que você tenha que reservar mesa para comer ou jantar, dependendo do restaurante e cidade que você esteja.
+Não é incomum que você tenha que reservar mesa para comer ou jantar, dependendo do restaurante e cidade que você esteja.
 
-Se planeje com antencedência porque se nao podem só sobrar os lugares de menor qualidade
+Se planeje com antencedência porque se não podem só sobrar os lugares de menor qualidade.
 {% endhint %}
 
 ## Cultura
@@ -268,11 +268,11 @@ Se planeje com antencedência porque se nao podem só sobrar os lugares de menor
 
 ### Trem e transportes em geral
 
-* [SJ](https://www.sj.se) (estatal - trens de longa distancia e alguns regionais)
-* [MTRX](https://www.mtrx.se) (privado - somente trens de longa distancia)
+* [SJ](https://www.sj.se) (estatal - trens de longa distância e alguns regionais)
+* [MTRX](https://www.mtrx.se) (privado - somente trens de longa distância)
 * [Flixtrain](https://www.flixtrain.se) (privado - Operador mais barato para a rota Gothemburgo > Estolcomo)
 
 * Se voce mora em Västra Gotalands Län:
-  * [Västtraffik](https://vasttraffik.se) - Operador local de onibus, bondes e trens suburbanos e regionais/pendulares.
+  * [Västtraffik](https://vasttraffik.se) - Operador local de ônibus, bondes e trens suburbanos e regionais/pendulares.
 * Se voce mora em Stockholm län:
-  * [SL](https://sl.se) - Operador local de onibus, bondes e trens suburbanos e regionais/pendulares.
+  * [SL](https://sl.se) - Operador local de ônibus, bondes e trens suburbanos e regionais/pendulares.
