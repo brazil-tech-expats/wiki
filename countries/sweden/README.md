@@ -50,38 +50,38 @@ Lembre-se: Um contrato assinado tem quase peso de lei na Suécia. LEIA COM ATEN�
 
 ## Caminho feliz para emissão dos documentos
 
-### Vistos de trabalho e residencia
+### Vistos de trabalho e residência
 
-Quando seu empregador envia o pedido de visto, a Migrationsverket responde autorizando, e envia por email o Arbetstilltånd Beslut para todos os solicitantes do visto no grupo familiar, que é basicamente um documento que contem todos os dados da decisão do visto, numero do processo e as informacoes de interesse da imigracão europeia, te identificando temporariamente como um residente.
+Quando seu empregador envia o pedido de visto, a Migrationsverket responde autorizando e envia por email o Arbetstilltånd Beslut para todos os solicitantes do visto no grupo familiar, que é basicamente um documento que contém todos os dados da decisão do visto, número do processo e as informações de interesse da imigracão europeia, te identificando temporariamente como um residente.
 
-E recomendo imprimir todos os PDFs enviados, pois eles enviam um pra cada pessoa. Eles devem ser apresentados na imigracao europeia, no primeiro pais de entrada.
+É recomendado imprimir todos os PDFs enviados, pois eles enviam um pra cada pessoa. Eles devem ser apresentados na imigração europeia, no primeiro país de entrada.
 
-Após a chegada na Suécia e a instalacão na sua primeira residencia, você precisa marcar um horário na Migrationsverket para [**Emissao do cartao do visto e coleta de fotos e digitais**](https://www.migrationsverket.se/English/Contact-us/Book-change-or-cancel-appointments-for-visits.html). Lembre-se de levar o Beslut e o passaporte.
+Após a chegada na Suécia e a instalação na sua primeira residência, você precisa marcar um horário na Migrationsverket para [**Emissão do cartão do visto e coleta de fotos e digitais**](https://www.migrationsverket.se/English/Contact-us/Book-change-or-cancel-appointments-for-visits.html). Lembre-se de levar o Beslut e o passaporte.
 
-E recomendado tambem nesse passo, levar o contrato de aluguel do imovel que você mora hoje, pois o cartao e enviado pelo correio, e o funcionário precisa registrar o endereco (e o contrato ajuda BASTANTE nessa hora).
+É recomendado tambem nesse passo, levar o contrato de aluguel do imóvel que você mora hoje, pois o cartão é enviado pelo correio, e o funcionário precisa registrar o endereço (e o contrato ajuda BASTANTE nessa hora).
 
 
 {% hint style="info" %}
-Lembre-se: Voce deve agendar um horario para CADA pessoa que vai emitir o visto. Se forem 3 pessoas em uma familia, então sao 3 horarios.
+Lembre-se: Você deve agendar um horário para CADA pessoa que vai emitir o visto. Se forem 3 pessoas em uma família, então são 3 horários.
 {% endhint %}
 
-Após a coleta das fotos e digitais, o documento leva em média 7-10 dias uteis para ser entregue.
+Após a coleta das fotos e digitais, o documento leva em média 7 a 10 dias úteis para ser entregue.
 
 ### Personnummer e identitetskortet
 
-Você deve ir a um escritório da Skatteverket e solicitar a emissao de um personnummer. Em geral, voce precisa apenas do contrato de aluguel, passaporte e vistos para isso.
+Você deve ir a um escritório da Skatteverket e solicitar a emissão de um personnummer. Em geral, você precisa apenas do contrato de aluguel, passaporte e vistos para isso.
 
-Caso você seja casado e tenha filhos, leve as certidoes de casamento e nascimento dos filhos tambem (ou a traducao, caso tenha). Nesse momento eles irão registrar os residentes da sua residencia e seu primeiro registro no Folkbokföring, que e basicamente o seu registro de cidadao no municipio e condado onde você reside.
+Caso você seja casado e tenha filhos, leve as certidões de casamento e nascimento dos filhos também (ou a tradução, caso tenha). Nesse momento eles irão registrar os residentes da sua residência e seu primeiro registro no Folkbokföring, que é basicamente o seu registro de cidadão no município e condado onde você reside.
 
-Voce pode clicar [**aqui**](https://www.skatteverket.se/servicelankar/otherlanguages/inenglishengelska/individualsandemployees/movingtosweden.4.7be5268414bea064694c40c.html) e pre-preencher o formulario da Skatteverket, que facilita MUITO o processo! Lembre-se que deve ser preenchido um formulario por pessoa, e impresso.
+Você pode clicar [**aqui**](https://www.skatteverket.se/servicelankar/otherlanguages/inenglishengelska/individualsandemployees/movingtosweden.4.7be5268414bea064694c40c.html) e pré-preencher o formulário da Skatteverket, que facilita MUITO o processo! Lembre-se que deve ser preenchido um formulário por pessoa, e impresso.
 
-O link acima tambem da maiores informacoes sobre onde ir para fazer o cadastro.
+O link acima também dá maiores informações sobre onde ir para fazer o cadastro.
 
-Apos ter finalmente o visto em maos e feito a emissao do personnummer, você deve agendar um horário na Skatteverket para emissao do cartão de identidade. Lembrando tambem que é cobrada uma taxa (atualmente 400 SEK por pessoa) para emissão do documento. 
+Após ter finalmente o visto em mãos e feito a emissão do personnummer, você deve agendar um horário na Skatteverket para emissão do cartão de identidade. Lembrando também que é cobrada uma taxa (atualmente 400 SEK por pessoa) para emissão do documento. 
 
-Esse appointment pode ser marcado clicando [**aqui**](https://www.skatteverket.se/servicelankar/otherlanguages/inenglishengelska/individualsandemployees/livinginsweden/idcard/idcardapplicationconditions.4.3810a01c150939e893f1daea.html). 
+Esse agendamento pode ser marcado clicando [**aqui**](https://www.skatteverket.se/servicelankar/otherlanguages/inenglishengelska/individualsandemployees/livinginsweden/idcard/idcardapplicationconditions.4.3810a01c150939e893f1daea.html). 
 
-Lembre-se que você ja deve ter pago a taxa ao ir no escritorio, não precisa ser pago antes do agendamento.
+Lembre-se que você já deve ter pago a taxa ao ir no escritório, não precisa ser pago antes do agendamento.
 
 ### BankID e abertura de conta bancária
 
