@@ -4,11 +4,11 @@
 Estas informações podem estar desatualizadas e são apenas uma orientação.
 {% endhint %}
 
-A Suécia e um dos 4 paises escandinavos e um dos 6 paises nordicos ao norte da Europa. Atualmente tem sido um destino consideravel aos expats de IT e engenharia, pois o pais tem incentivado a importacao de mão de obra especializada nos ultimos anos, devido a alta carencia e tambem pela facilidade para obter residencia e cidadania no pais.
+A Suécia é um dos 4 países escandinavos e um dos 6 países nórdicos ao norte da Europa. Atualmente tem sido um destino considerável aos expats de IT e engenharia, pois o país tem incentivado a importação de mão de obra especializada nos últimos anos, devido a alta carência e também pela facilidade para obter residência e cidadania no país.
 
-Muitos tambem vem atraidos pela qualidade de vida do pais. Entretanto, fique ciente de que o custo de vida e um dos mais altos do mundo, e não e incomum que um casal sem filhos passe um certo aperto, mesmo q uma das pessoas esteja ganhando o salario médio de TI (que e uma das maiores medias salariais do pais). 
+Muitos também vem atraídos pela qualidade de vida do país. Entretanto, fique ciente de que o custo de vida é um dos mais altos do mundo, e não é incomum que um casal sem filhos passe um certo aperto, mesmo que uma das pessoas esteja ganhando o salário médio de TI (que é uma das maiores medias salariais do país).
 
-E tambem existem problemas como a Suécia ser um dos paises mais solitários do mundo e ter diversos problemas de socializacao e politicos (atualmente). Pra algumas pessoas, isso pode ser um no-no bem consideravel.
+E também existem problemas como a Suécia ser um dos países mais solitários do mundo e ter diversos problemas de socialização e políticos (atualmente). Pra algumas pessoas, isso pode ser um no-no bem considerável.
 
 
 ## Cidades
