@@ -239,7 +239,7 @@ A maior rede de cinemas local e a [Filmstaden](https://filmstaden.se), e os ingr
 
 ### Comida
 
-Em Espanha os horários de comida geralmente sao:
+Na Suécia os horários de comida geralmente sao:
 
 * Frukost (8-10 hrs)
 * Lunch (11-13 hrs)
