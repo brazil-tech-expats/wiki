@@ -73,7 +73,7 @@ Lei similar aos 30% rulling da Holanda, o qual fixa o imposto que você paga em 
 
 Requisitos:
 * Não ter sido residente fiscal na espanha nos ultimos 5 anos.
-* Ter um contrato de trabalho espanhol ou obter o visto de nomad digital
+* Ter um contrato de trabalho espanhol ou obter o visto de nomade digital
 
 Como solicitar:
 * Ter a Cl@ve
