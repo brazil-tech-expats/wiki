@@ -29,6 +29,7 @@ Sempre é aconselhável contratar advogados especialistas em _extranjeria_ para 
 * [**Certificado digital**](https://www.sede.fnmt.gob.es/certificados/persona-fisica)**:** Isto permite a você fazer quase todas (pode até que todas) as burocracias online
 * [Cl@ve](https://clave.gob.es/clave\_Home/clave.html): Isto também permite fazer burocracias online, mas nem todas
 * [**Padrón/Empadronamiento**](https://administracion.gob.es/pagFront/tramites/fichaTramite.htm?idTramiteSeleccionado=3485\&idMateria=21\&idBoletin=21): Este documento certifica onde você mora e é necessário para a maioria de processos burocráticos na Espanha. O local para se registrar e pedir o certificado depois do registro, é a prefeitura (_ayuntamiento_) do municipio que você more.
+* [Vida Laboral](https://portal.seg-social.gob.es/wps/portal/importass/importass/Categorias/Vida+laboral+e+informes): Contem as informações sobre os empregos que tem/teve na Espanha, como se fosse uma carteira de trabalho
 
 Existe o caso de você poder ter um número associado de **NIE** quando dá entrada em um tipo de residência (a mais comum) e somente depois de aprovado o processo, você poder pegar o **TIE**
 
@@ -65,6 +66,22 @@ O IRPF é o _Impuesto sobre la Renta de las Personas Físicas_. Este geralmente 
 Para calcular o que te corresponde declarar e pagar de imposto a partir do que você recebe, tem este link: [https://www.bbva.es/finanzas-vistazo/ef/empresas/tramos-irpf.html](https://www.bbva.es/finanzas-vistazo/ef/empresas/tramos-irpf.html)
 
 Para calcular os descontos na folha de pagamento, use o [AfterTaxes](https://salaryaftertax.com/es/salary-calculator). Ele é bem preciso
+
+### Lei de Beckham
+
+Lei similar aos 30% rulling da Holanda, o qual fixa o imposto que você paga em 24%, ele começa a valer a pena se o salario for maior que € 60.000 ano.
+
+Requisitos:
+* Não ter sido residente fiscal na espanha nos ultimos 5 anos.
+* Ter um contrato de trabalho espanhol ou obter o visto de nomade digital
+
+Como solicitar:
+* Ter a Cl@ve
+* Apresentar o [formulário 030](https://sede.agenciatributaria.gob.es/Sede/en_gb/censos-nif-domicilio-fiscal/declaraciones-censales-modelo-030.html)
+* Apresentar o [formulário 149](https://sede.agenciatributaria.gob.es/Sede/en_gb/procedimientoini/G606.shtml) com os seguintes documentos
+  * Contrato, contra cheque, Vida Laboral, NIE, Passaporte completo (incluindo paginas em branco)
+* Espere a aprovação (geralmente é rápido, por volta de 10 dias)
+* Apresente a confirmação para o RH da sua empresa
 
 ### Empresas
 
