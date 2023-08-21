@@ -165,6 +165,8 @@ Uma coisa a ter em conta na Espanha é que há mais filmes dublados do que legen
 
 Se você tem interesse em ver filmes legendados, procure pelos filmes VOSE acrônimo de _Versión Original Subtitulada en Español_
 
+Uma opção é o cinema [Babel](http://www.cinesalbatrosbabel.com). Cinema pequeno, de bairro, sem lugar marcado, porém todos os filmes são no formato original (idioma original com legendas em espanhol).
+
 ### Comida
 
 Em Espanha os horários de comida geralmente sao:
