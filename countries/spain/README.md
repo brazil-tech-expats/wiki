@@ -41,7 +41,7 @@ Aplicativos oficiais para [Android](https://play.google.com/store/apps/details?i
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
 [+] Informações: [https://examenes.cervantes.es/es/ccse/que-es](https://examenes.cervantes.es/es/ccse/que-es)
 
-* **Dicas para CCSE**: O DELE A2 é o exame que atesta sua competência nas normas linguísticas básicas do espanhol, abrangendo a compreensão e interpretação de áudios e textos, além da expressão oral. Embora mais extenso, o exame não apresenta complexidades significativas. Ele está estruturado em quatro etapas distintas:
+* **Dicas para DELE A2**: O DELE A2 é o exame que atesta sua competência nas normas linguísticas básicas do espanhol, abrangendo a compreensão e interpretação de áudios e textos, além da expressão oral. Embora mais extenso, o exame não apresenta complexidades significativas. Ele está estruturado em quatro etapas distintas:
 1. Interpretação de textos (~60 minutos, com lápis)
 2. Compreensão auditiva (~40 minutos, com lápis)
 3. Redações (~50 minutos, com caneta): A parte escrita da prova envolve a redação de um e-mail na tarefa 1, o que se resume a praticar alguns exemplos. Quanto à tarefa 2, há a opção de escolher entre discorrer sobre sua música e cantor favoritos ou compartilhar sobre as férias que gostaria de desfrutar.
